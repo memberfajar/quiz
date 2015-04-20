@@ -22,4 +22,5 @@ public class Soal {
 	public int perkalian(int bilA, int bilB){
 		return bilA * bilB;
 	}
+//	coba
 }
