@@ -22,5 +22,12 @@ public class Soal {
 	public int perkalian(int bilA, int bilB){
 		return bilA * bilB;
 	}
-//	coba
+	
+	public static void main(String[]args){
+		Soal soal = new Soal();
+		soal.pangkat(2, 3);
+	}
+	
 }
+
+
